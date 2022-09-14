@@ -26,6 +26,8 @@
 
 ### Publications 📚
 
+Park, J., & Jeoung, S. (2022, May). Raison d’être of the benchmark dataset: A Survey of Current Practices of Benchmark Dataset Sharing Platforms. In Proceedings of NLP Power! The First Workshop on Efficient Benchmarking in NLP (pp. 1-10). 👉 [paper](https://aclanthology.org/2022.nlppower-1.1/)
+
 Park, J., Yang, J., Bunsold, K. & Tolbert, A. (2022). Cross-platform Analysis of Twitter and Parler during the 2020 U.S. Presidential Election. Extended abstract at International Communication Association Conference (ICA). 👉 [paper](https://www.ideals.illinois.edu/handle/2142/113362)
 
 Dalgali, A., Xiao, L. & Park, J. (2021). Reasoning in Social Media: Insights from Reddit “Change My View” Submissions. Online Information Review, 45 (7), (pp. 1208-1226). 👉 [paper](https://www.emerald.com/insight/content/doi/10.1108/OIR-08-2020-0330/full/html?utm_source=rss&utm_medium=feed&utm_campaign=rss_journalLatest)
