@@ -26,6 +26,10 @@
 
 ### Publications 📚
 
+Park, J. & Cordell, R. (Revise & Resubmit). Rethinking about reuse: The machine learning dataset lifecycle. Journal of Information Science. 
+
+Park, J., Yang, JH., Tolbert A. & Bunsold, K. (Revise & Resubmit). Cross-platform User Analysis between Twitter and Parler during the 2020 U.S. Presidential Election. Journal of Information Science.
+
 Park, J., & Jeoung, S. (2022, May). Raison d’être of the benchmark dataset: A Survey of Current Practices of Benchmark Dataset Sharing Platforms. In Proceedings of NLP Power! The First Workshop on Efficient Benchmarking in NLP (pp. 1-10). 👉 [paper](https://aclanthology.org/2022.nlppower-1.1/)
 
 Park, J., Yang, J., Bunsold, K. & Tolbert, A. (2022). Cross-platform Analysis of Twitter and Parler during the 2020 U.S. Presidential Election. Extended abstract at International Communication Association Conference (ICA). 👉 [paper](https://www.ideals.illinois.edu/handle/2142/113362)
