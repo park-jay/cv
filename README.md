@@ -15,7 +15,6 @@
 - [x] Yonsei University (2010-2017)
   - Bachelor of Arts in Library and Information Science 
   - Bachelor of Arts in Political Science and International Studies 
-  - Advisor: [Dr. Ji-Hong Park](https://devcms.yonsei.ac.kr/faculty/name_search.do?mode=view&userId=FHFpbXKRXex%2BGHLRSDmrWg%3D%3D&sosokcd=0000131)
 
 ### Research Interests ✒️
 - 💥Computational Social Science
