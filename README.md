@@ -17,11 +17,11 @@
   - Bachelor of Arts in Political Science and International Studies 
 
 ### Research Interests ✒️
-- 💥Computational Social Science
-- 💥Digital Humanities
-- 💥Text Mining (Discourse analysis, Comparative text mining)
-- 💥Knowledge Organization (Comparative metadata analysis)
-- 💥Data Curation (Data reuse and sharing)
+- 💥Computational Humanities / Social Science
+-- 💥Natural Language Processing (Comparative / Quantitative Discourse Analysis)
+-- 💥Network Analysis
+- 💥Responsible Data Science
+-- 💥Data Curation (Data reuse and sharing)
 
 ### Publications 📚
 
