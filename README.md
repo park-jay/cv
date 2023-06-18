@@ -18,10 +18,10 @@
 
 ### Research Interests ✒️
 - 💥Computational Humanities / Social Science
--- 💥Natural Language Processing (Comparative / Quantitative Discourse Analysis)
--- 💥Network Analysis
+- 💥Natural Language Processing (Comparative / Quantitative Discourse Analysis)
+- 💥Network Analysis
 - 💥Responsible Data Science
--- 💥Data Curation (Data reuse and sharing)
+- 💥Data Curation (Data reuse and sharing)
 
 ### Publications 📚
 
