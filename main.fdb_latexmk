@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1728714383 "/Users/mstudio/repository/cv/main.tex" "main.pdf" "main" 1728714384 0
-  "/Users/mstudio/repository/cv/main.tex" 1728714383 12826 d0bbb717dc1f8f59827832984870ef2e ""
+["pdflatex"] 1730622895 "/Users/2010y/repository/cv/main.tex" "main.pdf" "main" 1730622896 0
+  "/Users/2010y/repository/cv/main.tex" 1730622895 13202 0368cf98c8911642915e9d41ca651c1d ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -51,12 +51,12 @@
   "/usr/local/texlive/2023/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657483315 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/url/url.sty" 1388531844 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf" 1677365944 40745 87bb86a62d462f93a1efc6b0c65c872e ""
-  "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1686758670 4623355 b8cad38412faebe1ce5b780a45db67bd ""
-  "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1686758668 7883455 439a16eca24fd25d569ecb1693e387a5 ""
+  "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1688149559 4623355 b8cad38412faebe1ce5b780a45db67bd ""
+  "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1688149539 7883450 3cc0c986c7cb0780df01ef3d0ff7ed33 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "main.aux" 1728714384 554 dd2b48f1aba1e3b725040b4d3abf7fbe "pdflatex"
-  "main.out" 1728714384 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.tex" 1728714383 12826 d0bbb717dc1f8f59827832984870ef2e ""
+  "main.aux" 1730622896 554 dd2b48f1aba1e3b725040b4d3abf7fbe "pdflatex"
+  "main.out" 1730622896 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.tex" 1730622895 13202 0368cf98c8911642915e9d41ca651c1d ""
   (generated)
   "main.aux"
   "main.log"
