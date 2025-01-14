@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1735969878.26384 "/Users/mstudio/repository/cv/main.tex" "main.pdf" "main" 1735969878.79411 0
-  "/Users/mstudio/repository/cv/main.tex" 1735969878.00091 13311 4660696aa3876384b3dbd290576f6afa ""
+["pdflatex"] 1736824664.00294 "/Users/mstudio/repository/cv/main.tex" "main.pdf" "main" 1736824664.47383 0
+  "/Users/mstudio/repository/cv/main.tex" 1736824663.79328 13904 99ad702acd298f5fba2c42a93510d3b0 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -53,9 +53,9 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1735891317.77075 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1735891209 8221439 aca41c944be88e87946cbef4b61f13c9 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "main.aux" 1735969878.7167 162 fa61bf9ecf9314f94d51aa32222a725c "pdflatex"
-  "main.out" 1735969878.55826 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.tex" 1735969878.00091 13311 4660696aa3876384b3dbd290576f6afa ""
+  "main.aux" 1736824664.43066 162 fa61bf9ecf9314f94d51aa32222a725c "pdflatex"
+  "main.out" 1736824664.27889 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.tex" 1736824663.79328 13904 99ad702acd298f5fba2c42a93510d3b0 ""
   (generated)
   "main.aux"
   "main.log"
