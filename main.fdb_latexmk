@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1765296232.05474 "/Users/jaipark/repository/cv/main.tex" "main.pdf" "main" 1765296232.42031 0
-  "/Users/jaipark/repository/cv/main.tex" 1765296231.85068 16985 ac0ab775a339151d71062b26ea7c2685 ""
+["pdflatex"] 1765300302.32448 "/Users/jaipark/repository/cv/main.tex" "main.pdf" "main" 1765300302.6593 0
+  "/Users/jaipark/repository/cv/main.tex" 1765300302.11018 17087 216b1ed20aa40ce28ada792411c54d51 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -53,9 +53,9 @@
   "/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1765250001 5467155 19efa205003f9ecad95fbbaa6ff24da1 ""
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1741450574 3345740 46b66fdb0378f7bf5921b5eabf1762b8 ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
-  "main.aux" 1765296232.37409 162 59504cb8f8bee0a3f0488d753cb23a1e "pdflatex"
-  "main.out" 1765296232.26638 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.tex" 1765296231.85068 16985 ac0ab775a339151d71062b26ea7c2685 ""
+  "main.aux" 1765300302.61709 162 59504cb8f8bee0a3f0488d753cb23a1e "pdflatex"
+  "main.out" 1765300302.51412 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.tex" 1765300302.11018 17087 216b1ed20aa40ce28ada792411c54d51 ""
   (generated)
   "main.aux"
   "main.log"
